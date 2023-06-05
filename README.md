@@ -23,7 +23,7 @@
 - `python manage.py runserver`
 - open the URL on web browser
 
-# Django 4.0
+# [Django 4.0](https://github.com/HidayatRivai2020/Django/4.0)
 ## [Project Structure](https://github.com/HidayatRivai2020/Django/4.0/my_project)
 - project_name (Project Name)
 - project_name/__init__.py (initiation)
